@@ -1,4 +1,4 @@
-# TheOdingProject-coding-logs
+# TheOdingProject-coding-logs. #100DaysOfCode Challenge
 In this README file, I will be logging my coding learning progress.
 
 ### Day 1: July 12, 2022 – Tuesday
