@@ -522,11 +522,7 @@ Up next:
 3. Updated READ.ME file for #100DaysofCode
 4. Will create a new log my README.md log of #100DaysofCode and moved to the repository.
 5. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
-6. Post on Instagram account post #day12 
-7. Tweet #day12 on my Twitter 
-8. Post on Facebook #day12
-9. Add Progress of #100DaysofCode on Notion
-10. Will create new Anki Notes 
+6.Will create new Anki Notes 
 
 Today's Progress:
 
@@ -535,11 +531,7 @@ Today's Progress:
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
 5. One more day ... Got my time in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
-6. Posted progress on my Instagram Account (@graciicodes)
-7. Tweeted on Twitter (@https://twitter.com/GraciiCodes) progress to the #100-days-of-code challenge
-8. Posted on Facebook (@https://www.facebook.com/gracicodes)
-9. See Coding blog on (@https://graciicodesdiaries.hashnode.dev/)I blog on occasion!
-10. Created new Anki Notes
+6. Created new Anki Notes
 
 ## Thoughts:
 
@@ -548,7 +540,47 @@ Today's Progress:
 
 Up next: 
 
-- CSS - CHAPTER (enter the next chapter here) BOX MODEL 
+- CSS - CHAPTER (Chapter 13: Position) 
+- CS50's Introduction to Computer Science Course
+- UDEMY: The Web Developer Bootcamp 2022 Course 
+
+**Link to work**: New README.md log for #100DaysofCode Journey: new link (https://github.com/graciicodes/TheOdingProject-coding-logs)
+
+<!-- ## Author
+
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+
+### Day 13: August 08, 2022 – Monday
+
+##### (I've re-joined the #100DaysOfCode Challenge)
+
+**Today's Project(s)**:
+
+1. Created a new log file to log my coding learing progress for The Odin Project
+- Continued THE ODIN PROJECT Foundations Course getting ready for JS & RUBY on Rails. Let's go! 
+2. Continue Full Course Programming Tutorials from Dave Gray: Will start the CSS Full Course
+3. Updated READ.ME file for #100DaysofCode
+4. Will create a new log my README.md log of #100DaysofCode and moved to the repository.
+5. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
+6. Will create new Anki Notes 
+
+Today's Progress:
+
+1. Continued with THE ODIN PROJECT Foundations Course
+2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
+3. Updated READ.ME file for #100DaysofCode
+4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
+5. One more day ... Got my time in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+6. Created new Anki Notes
+
+## Thoughts:
+
+1. Always remember: “code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+2. 🔥BUILD MORE … LEARN LESS by Dorian Develops
+
+Up next: 
+
+ CSS - CHAPTER (enter the next chapter here) BOX MODEL 
 - CS50's Introduction to Computer Science Course
 - UDEMY: The Web Developer Bootcamp 2022 Course 
 
@@ -556,4 +588,4 @@ Up next:
 
 ## Author
 
-- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) -->
