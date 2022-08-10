@@ -595,7 +595,7 @@ Up next:
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 
-### Day 13: August 09, 2022 – Tuesday
+### Day 14: August 10, 2022 – Wednesday
 
 ##### (I've re-joined the #100DaysOfCode Challenge)
 
