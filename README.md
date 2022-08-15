@@ -590,11 +590,6 @@ Up next:
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) 
 
-
- ## Author
-
-- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
-
 ### Day 14: August 10, 2022 – Wednesday
 
 ##### (I've re-joined the #100DaysOfCode Challenge)
@@ -633,12 +628,6 @@ Up next:
 ## Author
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
-
-
- ## Author
-
-- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
-
 ### Day 15: August 13, 2022 – Saturday
 
 ##### (I've re-joined the #100DaysOfCode Challenge)
