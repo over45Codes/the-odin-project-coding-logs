@@ -881,7 +881,7 @@ Up next:
 
 Today's Progress: This is a late update, I forgot to push this to GitHub! 
 
-1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT
+1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT - Video Tutorial overview on Flex aligment 
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
