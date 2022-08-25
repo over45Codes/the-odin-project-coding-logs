@@ -913,7 +913,7 @@ Up next:
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 
-<!-- ### Day 21: August 25, 2022 – Thursday 
+ ### Day 21: August 25, 2022 – Thursday 
 
 ##### (I've re-joined the #100DaysOfCode Challenge)
 
@@ -928,7 +928,7 @@ Up next:
 
 Today's Progress: 
 
-1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT
+1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex aligment
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
@@ -958,4 +958,4 @@ Up next:
 
 ## Author
 
-- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)-->
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
