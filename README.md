@@ -866,7 +866,7 @@ Up next:
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
 
 
-<!--  ### Day 20: August 22, 2022 – Monday 
+### Day 20: August 22, 2022 – Monday 
 
 ##### (I've re-joined the #100DaysOfCode Challenge)
 
@@ -879,7 +879,7 @@ Up next:
 5. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
 6. Will create new Anki Notes 
 
-Today's Progress:
+Today's Progress: This is a late update, I forgot to push this to GitHub! 
 
 1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
@@ -908,4 +908,4 @@ Up next:
 
 ## Author
 
-- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) -->
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
