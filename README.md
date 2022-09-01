@@ -1051,3 +1051,5 @@ Up next:
 ## Author
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+
+<!-- Added day 23 coding learning progress to ReadMe -->
