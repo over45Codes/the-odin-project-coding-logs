@@ -1083,13 +1083,14 @@ Today's Progress:
 
 Up next: 
 1. Continued THE ODIN PROJECT Foundations Course: CSS Flexbox excercises 
-    - 1. Introduction to Flexbox
+    - 1. Introduction to Flexbox - 
     - 2. Growing and Shrinking
     - 3. Axes
     - 4. Alignment
     - 5. Project: Landing Page - Started! 
          - Commit Messages - Read Article 
-- CSS - CHAPTER 15: Grid Layout  
+- CSS - CHAPTER 15: Grid Layout - Chapter 15 (CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours) 
+    - (https://www.youtube.com/watch?v=n4R2E7O-Ngo)
 - CS50's Introduction to Computer Science Course
 - UDEMY: The Web Developer Bootcamp 2022 Course 
 
