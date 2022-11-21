@@ -881,7 +881,7 @@ Up next:
 
 Today's Progress: This is a late update, I forgot to push this to GitHub! 
 
-1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT - Video Tutorial overview on Flex aligment 
+1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT - Video Tutorial overview on Flex alignment 
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
@@ -928,7 +928,7 @@ Up next:
 
 Today's Progress: 
 
-1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex aligment
+1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex alignment
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
@@ -975,7 +975,7 @@ Up next:
 
 Today's Progress: 
 
-1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex aligment
+1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex alignment
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
@@ -1022,7 +1022,7 @@ Up next:
 
 Today's Progress: 
 
-1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex aligment
+1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex alignment
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
@@ -1054,7 +1054,7 @@ Up next:
 
 <!-- Added day 23 coding learning progress to ReadMe -->
 
-<!-- ### Day 24: September 02, 2022 – Friday 
+ ### Day 24: September 03, 2022 – Friday 
 
 ##### (I've re-joined the #100DaysOfCode Challenge)
 
@@ -1069,7 +1069,7 @@ Up next:
 
 Today's Progress: 
 
-1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex aligment
+1. Continued THE ODIN PROJECT Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex alignment
 2. Continue Full Course Programming Tutorials from Dave Gray: CSS Full Course 
 3. Updated READ.ME file for #100DaysofCode
 4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
@@ -1082,16 +1082,106 @@ Today's Progress:
 2. 🔥BUILD MORE … LEARN LESS by Dorian Develops
 
 Up next: 
-1. Continued THE ODIN PROJECT Foundations Course: CSS Flexbox excercises 
+1. Completed: THE ODIN PROJECT Foundations Course: CSS Flexbox excercises 
     - 1. Introduction to Flexbox
     - 2. Growing and Shrinking
     - 3. Axes
     - 4. Alignment
     - 5. Project: Landing Page - Started! 
          - Commit Messages - Read Article 
-- CSS - CHAPTER 15: Grid Layout  
-- CS50's Introduction to Computer Science Course
-- UDEMY: The Web Developer Bootcamp 2022 Course 
+- Up Next: CSS - CHAPTER 15: Grid Layout  
+- Up Next: CS50's Introduction to Computer Science Course
+- Up Next: UDEMY: The Web Developer Bootcamp 2022 Course 
+
+**Link to work**: New README.md log for #100DaysofCode Journey: new link (https://github.com/graciicodes/TheOdingProject-coding-logs)
+
+## Author
+
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) 
+
+<!-- Add this to my commit = Added day 24 coding learning progress to ReadMe --> 
+
+ ### Day 41: November 21, 2022 - UPDATES!!
+
+##### (I've re-joined the #100DaysOfCode Challenge)
+
+## Author's Notes: I keep forgetting to update my ReadMe Log! But I am now back on track. Let's go! 
+
+**Today's Project(s)**:
+
+1. Continued THE ODIN PROJECT Foundations Course:  
+2. Continued Full Course Programming Tutorials from Dave Gray: Will start the CSS Full Course
+3. Prepare to start the #100Dev (Learn w/Leon and Friends Bootcamp) - start to download homework files
+4. Updated READ.ME file for #100DaysofCode
+5. Will create a new log my README.md log of #100DaysofCode and moved to the repository.
+6. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
+7. Will create new Anki Notes 
+
+Today's Progress: 
+
+1. Completed TOP Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex alignment 
+2. Hold - Full Course Programming Tutorials from Dave Gray: CSS Full Course 
+3. Updated READ.ME file for #100DaysofCode
+4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
+5. One more day ... Got my time in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+6. Created new Anki Notes
+
+## Thoughts:
+
+1. Always remember: “code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+2. 🔥BUILD MORE … LEARN LESS by Dorian Develops
+
+Up next: 
+1. Continued THE ODIN PROJECT Foundations Course: Fundamentals Part 1 - JavaScript
+2. Prepare to start the #100Dev (Learn w/Leon and Friends Bootcamp) - start to download homework files
+3. CSS - CHAPTER 15: Grid Layout - Chapter 15 (CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours) Link to course (https://www.youtube.com/watch?v=n4R2E7O-Ngo) 
+4. Up Next: CS50's Introduction to Computer Science Course
+4. Finish: UDEMY: The Web Developer Bootcamp 2022 Course 
+
+**Link to work**: New README.md log for #100DaysofCode Journey: new link (https://github.com/graciicodes/TheOdingProject-coding-logs)
+
+## Author
+
+- Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) 
+
+<!-- Add this to my commit = Added day 41! coding learning progress to ReadMe --> 
+
+<!-- ### Day : November  2022 - 
+
+##### (I've re-joined the #100DaysOfCode Challenge)
+
+## Author's Notes: I keep forgetting to update my ReadMe Log! But I am now back on track. Let's go! 
+
+**Today's Project(s)**:
+
+1. Continued THE ODIN PROJECT Foundations Course:  
+2. Continued Full Course Programming Tutorials from Dave Gray: Will start the CSS Full Course
+3. Prepare to start the #100Dev (Learn w/Leon and Friends Bootcamp) - start to download homework files
+4. Updated READ.ME file for #100DaysofCode
+5. Will create a new log my README.md log of #100DaysofCode and moved to the repository.
+6. Created a New Repo for THE ODIN PROJECT Foundations Course to log my project
+7. Will create new Anki Notes 
+
+Today's Progress: 
+
+1. Completed TOP Foundations Course: Continued THE ODIN PROJECT Foundations Course: CSS FLEXBOX: ALIGNMENT Video Tutorial overview on Flex alignment 
+2. Hold - Full Course Programming Tutorials from Dave Gray: CSS Full Course 
+3. Updated READ.ME file for #100DaysofCode
+4. Added a new log my README.md log of #100DaysofCode and moved to the repository.
+5. One more day ... Got my time in! I did it. YES! again - Updated log.md in GitHub profile (@https://github.com/graciicodes)
+6. Created new Anki Notes
+
+## Thoughts:
+
+1. Always remember: “code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+2. 🔥BUILD MORE … LEARN LESS by Dorian Develops
+
+Up next: 
+1. Continued THE ODIN PROJECT Foundations Course: Fundamentals Part 1 - JavaScript
+2. Prepare to start the #100Dev (Learn w/Leon and Friends Bootcamp) - start to download homework files
+3. CSS - CHAPTER 15: Grid Layout - Chapter 15 (CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours) Link to course (https://www.youtube.com/watch?v=n4R2E7O-Ngo) 
+4. Up Next: CS50's Introduction to Computer Science Course
+4. Finish: UDEMY: The Web Developer Bootcamp 2022 Course 
 
 **Link to work**: New README.md log for #100DaysofCode Journey: new link (https://github.com/graciicodes/TheOdingProject-coding-logs)
 
@@ -1099,4 +1189,4 @@ Up next:
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) -->
 
-<!-- Add this to my commit = Added day 24 coding learning progress to ReadMe --> 
+<!-- Add this to my commit = Added day 42! coding learning progress to ReadMe --> 
