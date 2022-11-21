@@ -948,7 +948,7 @@ Up next:
     - 4. Alignment:
             - Assignments
                 <!--Done: 06-flex-layout 
-                - 07-flex-layout-2
+                - 07-flex-layout-2 --!>
      - 5. Project: Landing Page
 - CSS - CHAPTER 15: Grid Layout  
 - CS50's Introduction to Computer Science Course
@@ -995,7 +995,7 @@ Up next:
     - 4. Alignment:
             - Assignments
                 <!--Done: 06-flex-layout 
-                - 07-flex-layout-2
+                - 07-flex-layout-2 -->
      - 5. Project: Landing Page - Next !
 - CSS - CHAPTER 15: Grid Layout  
 - CS50's Introduction to Computer Science Course
@@ -1144,6 +1144,7 @@ Up next:
 ## Author
 
 - Grace Castaneda - Full Stack Developer - [Linkedin](https://www.linkedin.com/in/castanedagrace/) 
+
 <!-- Add this to my commit = Added day 41! coding learning progress to ReadMe --> 
 
 <!-- ### Day : November  2022 - 
