@@ -1,4 +1,4 @@
-# TheOdingProject #100Devs (Learn w/Leon & Friends) #100DaysOfCode Challenge
+# The Odin Project & #100Devs (Learn w/Leon & Friends) + #100DaysOfCode Challenge
 ### Self-Taught full stack development coding learning logs 
 In this README file, I will be logging my coding learning progress.
 
